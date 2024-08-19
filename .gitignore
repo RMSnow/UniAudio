@@ -1,0 +1,8 @@
+*.pyc
+*.pth
+*.zip
+*.pt
+*.bin
+UniAudio/universal_model
+UniAudio/lang_nosp
+uniaudio_v1
